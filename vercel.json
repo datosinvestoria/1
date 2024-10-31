@@ -7,7 +7,7 @@
   ],
   "routes": [
     {
-      "src": "/trending",
+      "src": "/api/trending",
       "dest": "api/trends.py"
     }
   ]
